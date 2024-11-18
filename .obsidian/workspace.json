@@ -11,10 +11,14 @@
             "id": "60093fd6ea8f30aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/SOLBER/Доступы.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Доступы"
             }
           }
         ]
@@ -159,8 +163,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0873f9ab2ac33310",
+  "active": "60093fd6ea8f30aa",
   "lastOpenFiles": [
+    "docs/SOLBER/1C ЦИС/Общая инфа.md",
+    "docs/SOLBER/1C ЦИС/СБ/Статусы.md",
+    "docs/index.md",
     "Первая заметка.md",
     "index.md",
     "README.md",
@@ -185,7 +192,6 @@
     "docs/SOLBER/Перевозчик/Диспетчеризация/Создание рейсов на основе заявки перевозчика.md",
     "docs/SOLBER/Перевозчик/Диспетчеризация/Принятие или отказ перевозчиком от заявки.md",
     "docs/SOLBER/Перевозчик/Диспетчеризация/Запрос на получения списка заявок по статусам Новые, Активные, Выполненные.md",
-    "docs/SOLBER/1C ЦИС/СБ/Статусы.md",
     "docs/SOLBER/Шаблоны Тестовой документации/Шаблон полнотелого бага.md",
     "docs/SOLBER/Шаблоны Тестовой документации/Шаблон бага внутри задачи.md",
     "docs/SOLBER/Спринты/Nov_1_24.md",
@@ -195,8 +201,6 @@
     "docs/SOLBER/Перевозчик/Работа с водителями.md",
     "docs/SOLBER/Перевозчик/Основные бизнес процессы роли.md",
     "docs/SOLBER/Водитель/Уведомления.md",
-    "docs/SOLBER/Водитель/Раздел Зарплата.md",
-    "docs/SOLBER/Водитель/Как через БД добавить рейсы на водителя.md",
-    "docs/SOLBER/Водитель/Как считается ЗП.md"
+    "docs/SOLBER/Водитель/Раздел Зарплата.md"
   ]
 }
