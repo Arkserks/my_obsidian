@@ -1,4 +1,7 @@
 site_name: My Obsidian Notes
+
+site_url: https://arkserks.github.io/my_obsidian
+
 theme:
   name: material
 
