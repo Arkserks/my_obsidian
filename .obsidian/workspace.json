@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "730c9bfb539fce69",
+    "type": "split",
+    "children": [
+      {
+        "id": "24f5e1b3ea6912af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "098e1bcadcee2824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c0fb6906474125d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3093e72e7f6149a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0873f9ab2ac33310",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "5f7b45f44f410102",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "a98372fdbb19fcd9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e02aa1883544ccbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "062ae2143ae0e362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e596c52b94f80e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для README"
+            }
+          },
+          {
+            "id": "d33b1d180ba09883",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из README"
+            }
+          },
+          {
+            "id": "1bae40cb5b9c8d70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "0db94ab196df9d21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0873f9ab2ac33310",
+  "lastOpenFiles": [
+    "SOLBER/Покупатель/УПД/Внутри УПД/Данные подтягиваются.md",
+    "SOLBER/Покупатель/Заказы/Внутри закака/Спецификация.md",
+    "SOLBER/Покупатель/УПД/Внутри УПД",
+    "SOLBER/Покупатель/Взаиморасчеты/Дебиторская задолженность.md",
+    "SOLBER/Покупатель/Заказы/Внутри закака",
+    "SOLBER/Покупатель/Взаиморасчеты/Актуальная информация.md",
+    "SOLBER/Покупатель/Взаиморасчеты/Акт-сверки взаиморасчетов.md",
+    "SOLBER/Покупатель/УПД",
+    "SOLBER/Покупатель/Заказы",
+    "SOLBER/Покупатель/Взаиморасчеты",
+    "SOLBER/Покупатель",
+    "SOLBER/Спринты/Nov_1_24.md",
+    "SOLBER/Спринты",
+    "SOLBER/Шаблоны Тестовой документации/Шаблон полнотелого бага.md",
+    "SOLBER/Шаблоны Тестовой документации/Шаблон бага внутри задачи.md",
+    "SOLBER/Шаблоны Тестовой документации",
+    "SOLBER/Доступы.md",
+    "SOLBER/Поставщик/Отгрузки/Формирование доверенностей.md",
+    "SOLBER/Поставщик/Условия появления новых рейсов.md",
+    "SOLBER/Поставщик/Отгрузки",
+    "SOLBER/Поставщик",
+    "SOLBER/Водитель/Уведомления.md",
+    "SOLBER/Водитель/Раздел Зарплата.md",
+    "SOLBER/Водитель/Как через БД добавить рейсы на водителя.md",
+    "SOLBER/Водитель/Как считается ЗП.md",
+    "SOLBER/Водитель/Заработная плата водителя.md",
+    "SOLBER/Android Водитель/Машина состояний для рейсов.md",
+    "SOLBER/Структура и зависимости БД.md",
+    "SOLBER/1C ЦИС/СБ/Статусы.md",
+    "SOLBER/1C ЦИС/Общая инфа.md",
+    "SOLBER/Перевозчик/Диспетчеризация/Сущность заявка.md",
+    "SOLBER/Перевозчик/Диспетчеризация/Создание рейсов на основе заявки перевозчика.md",
+    "SOLBER/Перевозчик/Диспетчеризация/Принятие или отказ перевозчиком от заявки.md",
+    "SOLBER/Перевозчик/Диспетчеризация/Запрос на получения списка заявок по статусам Новые, Активные, Выполненные.md",
+    "SOLBER/Перевозчик/Условия появления новых рейсов.md",
+    "SOLBER/Перевозчик/Рейсы.md"
+  ]
+}
