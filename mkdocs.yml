@@ -11,4 +11,3 @@ markdown_extensions:
   - tables
   - admonition
 
-nav: !!python/str ''
