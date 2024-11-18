@@ -1,1 +1,14 @@
-site_name: My Docs
+site_name: My Obsidian Notes
+theme:
+  name: material
+
+plugins:
+  - awesome-pages
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+
+nav: !!python/str ''
