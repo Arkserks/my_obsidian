@@ -165,6 +165,9 @@
   },
   "active": "60093fd6ea8f30aa",
   "lastOpenFiles": [
+    "docs/SOLBER/Refresh.md",
+    "docs/SOLBER/Доступы.md",
+    "docs/SOLBER/123456789.md",
     "docs/SOLBER/1C ЦИС/Общая инфа.md",
     "docs/SOLBER/1C ЦИС/СБ/Статусы.md",
     "docs/index.md",
@@ -198,9 +201,6 @@
     "docs/SOLBER/Поставщик/Условия появления новых рейсов.md",
     "docs/SOLBER/Перевозчик/Условия появления новых рейсов.md",
     "docs/SOLBER/Перевозчик/Рейсы.md",
-    "docs/SOLBER/Перевозчик/Работа с водителями.md",
-    "docs/SOLBER/Перевозчик/Основные бизнес процессы роли.md",
-    "docs/SOLBER/Водитель/Уведомления.md",
-    "docs/SOLBER/Водитель/Раздел Зарплата.md"
+    "docs/SOLBER/Перевозчик/Работа с водителями.md"
   ]
 }
