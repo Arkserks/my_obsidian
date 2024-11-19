@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "934ce1234c53dccd",
+        "id": "027fa528705e00fd",
         "type": "tabs",
         "children": [
           {
-            "id": "60093fd6ea8f30aa",
+            "id": "69483340f85f5fdf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "release-notes",
               "state": {
-                "file": "site/assets/images/favicon.png"
+                "currentVersion": "1.7.7"
               },
-              "icon": "lucide-image",
-              "title": "favicon"
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ]
@@ -161,7 +161,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60093fd6ea8f30aa",
+  "active": "69483340f85f5fdf",
   "lastOpenFiles": [
     "index.md",
     "README.md",
