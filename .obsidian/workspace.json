@@ -11,14 +11,12 @@
             "id": "60093fd6ea8f30aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/SOLBER/Доступы.md",
-                "mode": "source",
-                "source": false
+                "file": "site/assets/images/favicon.png"
               },
-              "icon": "lucide-file",
-              "title": "Доступы"
+              "icon": "lucide-image",
+              "title": "favicon"
             }
           }
         ]
@@ -165,15 +163,18 @@
   },
   "active": "60093fd6ea8f30aa",
   "lastOpenFiles": [
-    "docs/SOLBER/Refresh.md",
+    "index.md",
+    "README.md",
     "docs/SOLBER/Доступы.md",
+    "docs/SOLBER/Android Водитель/Машина состояний для рейсов.md",
+    "docs/SOLBER/Спринты/Nov_1_24.md",
+    "docs/SOLBER/Структура и зависимости БД.md",
+    "docs/SOLBER/Refresh.md",
     "docs/SOLBER/123456789.md",
     "docs/SOLBER/1C ЦИС/Общая инфа.md",
     "docs/SOLBER/1C ЦИС/СБ/Статусы.md",
     "docs/index.md",
     "Первая заметка.md",
-    "index.md",
-    "README.md",
     "site/SOLBER/Покупатель/Заказы/Внутри закака/Спецификация/index.html",
     "site/SOLBER/Покупатель/УПД/Внутри УПД/Данные подтягиваются/index.html",
     "site/SOLBER/Поставщик/Отгрузки/Формирование доверенностей/index.html",
@@ -197,10 +198,7 @@
     "docs/SOLBER/Перевозчик/Диспетчеризация/Запрос на получения списка заявок по статусам Новые, Активные, Выполненные.md",
     "docs/SOLBER/Шаблоны Тестовой документации/Шаблон полнотелого бага.md",
     "docs/SOLBER/Шаблоны Тестовой документации/Шаблон бага внутри задачи.md",
-    "docs/SOLBER/Спринты/Nov_1_24.md",
     "docs/SOLBER/Поставщик/Условия появления новых рейсов.md",
-    "docs/SOLBER/Перевозчик/Условия появления новых рейсов.md",
-    "docs/SOLBER/Перевозчик/Рейсы.md",
-    "docs/SOLBER/Перевозчик/Работа с водителями.md"
+    "docs/SOLBER/Перевозчик/Условия появления новых рейсов.md"
   ]
 }
